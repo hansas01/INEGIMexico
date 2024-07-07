@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "csv-file-to-json": "^4.0.5",
+    "txt-file-to-json": "^3.0.6"
+  }
+}
